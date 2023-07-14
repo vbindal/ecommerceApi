@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "almonds", "description": "dry-fruit", "price": 500 },
+  { "id": 2, "name": "cashew", "description": "dry-fruit", "price": 500 },
+  { "id": 3, "name": "chips", "description": "snacks", "price": 5 },
+  { "id": 5, "name": "chips", "description": "snacks", "price": 10 },
+  { "id": 6, "name": "namkeen", "description": "snacks", "price": 5 }
+]
